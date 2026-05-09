@@ -1,0 +1,1 @@
+Hello worldLa version del estandar C (__STDC_VERSION__) es: 202311
